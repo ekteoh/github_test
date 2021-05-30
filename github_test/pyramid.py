@@ -18,3 +18,5 @@ for (i, resized) in enumerate(pyramid(image, scale=args["scale"])):
 
 # close all windows
 cv2.destroyAllWindows()
+
+#something is changed here
